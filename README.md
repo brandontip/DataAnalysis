@@ -5,12 +5,18 @@
 ## Series: <br>
  * Datatype, info, describe <br>
  * Re-indexing <br>
- * .apply w/ lambda <br>
+ * Apply w/ lambda <br>
  * Sorting <br>
 ## DataFrame 1:  <br>
  * Datatypes, categories, info <br>
- * .dropna <br>
+ * Dropna <br>
  * Sort and Rank <br>
 ## DataFrame 2:  <br>
  * Data filtering <br>
  * Duplicates, uniqueness <br>
+ ## DataFrame 3:  <br>
+ * Data extraction and manipulation <br>
+ * Sampling
+ * Where, query, largest/smallest <br>
+ * Apply
+ * Copying
