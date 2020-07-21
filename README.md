@@ -12,7 +12,5 @@
  * .dropna <br>
  * Sort and Rank <br>
 ## DataFrame 2:  <br>
- * Data Extraction <br>
+ * Data filtering <br>
  * Duplicates, uniqueness <br>
-
-
