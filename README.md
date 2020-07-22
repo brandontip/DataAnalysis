@@ -21,7 +21,11 @@
  * Apply <br>
  * Copying <br>
  ## Multi-index:  <br>
- * Sorting and renaming <br>
+ * Sort and rename <br>
  * Extraction <br>
  * Transpose <br>
  * Swapping Levels <br>
+  ## Stack:  <br>
+ * Stack and unstack <br>
+ * Pivot and pivot_table <br>
+ * Melt <br>
