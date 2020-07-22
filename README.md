@@ -29,3 +29,7 @@
  * Stack and unstack <br>
  * Pivot and pivot_table <br>
  * Melt <br>
+ ## GroupBy:  <br>
+ * Grouping <br>
+ * Aggegration <br>
+ * Looping through groups <br>
