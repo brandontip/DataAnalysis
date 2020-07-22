@@ -16,7 +16,12 @@
  * Duplicates, uniqueness <br>
  ## DataFrame 3:  <br>
  * Data extraction and manipulation <br>
- * Sampling
+ * Sampling <br>
  * Where, query, largest/smallest <br>
- * Apply
- * Copying
+ * Apply <br>
+ * Copying <br>
+ ## Multi-index:  <br>
+ * Sorting and renaming <br>
+ * Extraction <br>
+ * Transpose <br>
+ * Swapping Levels <br>
