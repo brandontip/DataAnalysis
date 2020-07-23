@@ -37,4 +37,8 @@
  * Concat, append <br>
  * Merge (inner, outer, left) <br>
  * Join <br>
+ ## DateTime: <br>
+ * date_range <br>
+ * .dt <br> 
+ * Offsets and Deltas <br>
  
