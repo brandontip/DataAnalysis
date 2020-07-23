@@ -41,4 +41,6 @@
  * date_range <br>
  * .dt <br> 
  * Offsets and Deltas <br>
- 
+  ## Misc: <br>
+ * Read/write to csv/xlsx <br>
+ * Pandas options <br>
