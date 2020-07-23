@@ -33,3 +33,8 @@
  * Grouping <br>
  * Aggegration <br>
  * Looping through groups <br>
+  ## Merge:  <br>
+ * Concat, append <br>
+ * Merge (inner, outer, left) <br>
+ * Join <br>
+ 
